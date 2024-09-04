@@ -1,0 +1,55 @@
+
+
+body{
+
+padding: 50px;
+height:  250vh;
+
+}
+
+
+img{
+
+    width: 150px;
+    height: 150px;
+    border-radius:50%;
+}
+
+
+
+#a{
+    position: absolute;
+    left: 750px;
+   
+}
+
+#b{
+
+position: sticky;
+top: 5px;
+left: 500px;
+
+}
+
+#c{
+ position: fixed;
+ line-height: 60px;
+ left: 25px;
+}
+
+#d{
+position: sticky;
+text-align: center;
+}
+
+
+div{
+
+    
+     border-radius: 50px;
+    background-color: rebeccapurple
+  
+}
+
+
+

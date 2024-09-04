@@ -1,0 +1,170 @@
+@font-face{
+    font-family: "Kanit";
+    src: local("Kanit.woff2"), url(/Kanit/Kanit-italic.ttf)
+}
+
+
+#titulo{
+
+    font-family: "Kanit", sans-serif;
+    text-align: center;
+    color: green;
+    font-size: 50px
+}
+
+#subtitulo{
+    font-family: "Kanit", sans-serif;
+    text-align: center;
+    color: green;
+    font-size: 25px;
+    margin-bottom: 80px ;
+}
+
+#la{
+
+    margin: 15px;
+    border-style: solid;
+    width: 860px;
+    height: auto;
+    background-color: gray;
+    
+   
+    
+}
+
+#circulog{
+    border-style: solid;
+    border-radius: 50%;
+    height: 200px ;
+    width: 200px;
+    margin-bottom: 25px;
+    margin-left:55px;
+    text-align: center;
+    position: static;
+    background-color: aliceblue;
+}
+
+#circulom{
+    border-style: solid;
+    border-radius: 50%;
+    height: 150px ;
+    width: 150px;
+    margin-bottom: 30px;
+    margin-left: 70px;
+    background-color: aliceblue;
+    
+}
+
+#circulop{
+    border-style: solid;
+    border-radius: 50%;
+    height: 100px ;
+    width: 100px;
+    margin-bottom: 30px;
+    margin-left: 85px;
+    background-color: aliceblue;
+}
+
+div#quimico{
+    
+   background-color: rgb(235, 12, 12);
+
+}
+
+div#biologico{
+    
+   background-color: chocolate;
+    
+
+}
+
+div#fisico{
+    
+   background-color: green;
+}
+
+div#ergonomico{
+    
+  background-color: rgb(0, 0, 0);
+}
+
+
+
+#ele{
+    
+    position: relative;
+    left: 350px;
+     
+    
+}
+
+#laela{
+    display: flex;
+}
+
+.germano{
+    margin-top: 25px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(40, 16, 109);
+
+
+}
+
+p{
+    margin-left:70px;
+
+}
+
+#rg{
+
+    margin-left: 250px;
+    margin-top: 65px;
+    
+}
+
+#rm{
+
+    margin-left: 190px;
+    margin-top: 65px;
+    
+}
+
+#rp{
+
+    margin-left: 120px;
+    margin-top: 25px;
+    
+}
+
+
+#img1{
+
+    margin-right: 15px;
+    margin-left: 20px;
+}
+
+
+#img2{
+
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#img3{
+
+    margin-right: 20px;
+    margin-left: 15px;
+}
+
+
+
+
+
+
+    
+
+
+
+
+   
